@@ -23,7 +23,10 @@ En cada ejercicio, espero explicaciones y razonamientos del porque una arquitect
 
 ## Dataset 
 
-Los datasets no están incluidos en el repositorio para no ocupar espacio.
+Los datasets no están incluidos en el repositorio para no ocupar espacio. Se pide que se haga un pequeño estudio de los datos que tenemos, también habrá que hacer algún tratamiento de los mismos y puede que haya datos que no sean relevantes. Todo lo relacionado con el análisis básico y tratamiento de los datos está en los siguientes Notebooks.
+
+[Dataset Ejercicio 1](00_1_AnalisisDataset1.ipynb)
+[Dataset Ejercicio 2 y 3](00_2_AnalisisDataset2.ipynb)
 
 ## Resolución del problema
 
