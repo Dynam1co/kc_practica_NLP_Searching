@@ -41,8 +41,6 @@ Implementar modelo de deep learning y otro de machine learning. Comparar resulta
 [Machine Learning Clásico](01_1_ML_Clasico.ipynb)
 #### 1.2. Implementación de un modelo de Sentiment Analysis con alguna arquitectura de Deep Learning.
 [Deep Learning](01_2_DeepLearning.ipynb)
-#### 1.3. Breve Comparación de resultados. Confusion Matrix.
-[Comparar resultados](01_3_CompararResultados.ipynb)
 
 ### 2. Análisis tweets segundo dataset
 Hacer Analysis de los tweets del segundo dataset. Analizar los temas que se mencionan, cómo se representan y de qué se habla en los tweets.
