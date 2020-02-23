@@ -44,6 +44,7 @@ Implementar modelo de deep learning y otro de machine learning. Comparar resulta
 
 ### 2. Análisis tweets segundo dataset
 Hacer Analysis de los tweets del segundo dataset. Analizar los temas que se mencionan, cómo se representan y de qué se habla en los tweets.
+[Sentiment Analysis with Politics](02_SentimentAnalysisPolitics.ipynb)
 
 ### 3. Escoger presidente y escribir tweets como él 
 Escoger uno de los dos presidentes y hacer un modelo generativo que escriba tweets como él.
