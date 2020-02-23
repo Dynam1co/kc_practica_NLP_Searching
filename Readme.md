@@ -63,4 +63,5 @@ También analizamos un dataset de 99989 tweets y vimos que la mayoría de los tw
 ![Distribución Tweets](distribucion_tweets.PNG)
 
 También generamos un modelo LDA interactivo para analizar los topics de ambos presidentes:
+
 ![Modelo LDA](modelo_lda.PNG)
