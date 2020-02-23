@@ -48,3 +48,19 @@ Hacer Analysis de los tweets del segundo dataset. Analizar los temas que se menc
 
 ### 3. Escoger presidente y escribir tweets como él 
 Escoger uno de los dos presidentes y hacer un modelo generativo que escriba tweets como él.
+[Tweet Generation](03_TweetGeneration.ipynb)
+
+# Algunas cosas interesantes
+En el notebook de [Sentiment Analysis with Politics](02_SentimentAnalysisPolitics.ipynb) vimos de qué hablan más los presidentes más influencers de USA.
+
+![Obama](Obama_tweets.png)
+![Obama](graph_Obama_.png)
+![Trump](Trump_tweets.png)
+![Obama](graph_Trump_.png)
+
+También analizamos un dataset de 99989 tweets y vimos que la mayoría de los tweets que se publicaron son de temática positiva:
+
+![Distribución Tweets](distribucion_tweets.PNG)
+
+También generamos un modelo LDA interactivo para analizar los topics de ambos presidentes:
+![Modelo LDA](modelo_lda.PNG)
